@@ -1,0 +1,2 @@
+# --- Teszt 4
+SUCCESS  # <- GT4500

@@ -1,3 +1,5 @@
-# Create a ship with stocked torpedo stores that never fail
+# --- Teszt 1: Hajó létrehozása, mindkét torpedótár tele, hibaarány 0%
 GT4500,10,0,10,0
-TORPEDO,SINGLE  # should have fired from the primary store
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+TORPEDO,ALL
