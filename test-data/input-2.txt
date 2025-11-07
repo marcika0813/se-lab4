@@ -1,3 +1,2 @@
-# --- Teszt 3: Secondary üres, primary tele
 GT4500,5,0,0,0
 TORPEDO,SINGLE

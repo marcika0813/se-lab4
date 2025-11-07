@@ -1,4 +1,3 @@
-# --- Teszt 2
 SUCCESS  # <- GT4500
 SUCCESS  # <- TORPEDO (SINGLE)
 SUCCESS  # <- TORPEDO (ALL)

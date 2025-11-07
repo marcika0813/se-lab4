@@ -1,3 +1,2 @@
-# --- Teszt 3
 SUCCESS  # <- GT4500
 SUCCESS  # <- TORPEDO (SINGLE
