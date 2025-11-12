@@ -2,9 +2,12 @@
 name: Measure coverage
 
 on:
-  workflow_dispatch:
+  push:
+    branches: [main, gt4500-testing]
   pull_request:
-    branches: [main]
+    branches: [main, gt4500-testing]
+  workflow_dispatch:
+
 
 env:
   COVERAGE_THRESHOLD: 0.8
